@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cucapevinefa.pages.dev/sitemap.xml
